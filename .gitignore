@@ -1,0 +1,13 @@
+data/
+data
+train_logs/
+__pycache__
+__pycache__/
+models/__pycache__/
+recall_samples/
+models/op/__pycache__/
+models/op/__pycache__
+models/op/__pycache__/*
+*.jsonl
+metric-pr50k3_full.jsonl
+lpips/__pycache__
